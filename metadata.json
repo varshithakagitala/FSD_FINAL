@@ -1,0 +1,6 @@
+{
+  "name": "RescueGrid - Real-Time Campus Emergency Reporting and Response",
+  "description": "A centralized web platform for reporting campus emergencies, verifying user identities via email OTP, assessing incident severity, assigning responders, and tracking response progress.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
